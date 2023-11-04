@@ -1,0 +1,23 @@
+.input_field{
+    width: 70px;
+    height: 30px;
+    margin: 0 10px;
+    text-align: center;
+}
+
+.value_container{
+    border: 1px white solid;
+    width: 200px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.minus{
+    font-size: 30px;
+}
+
+.plus{
+    font-size: 30px;
+}
